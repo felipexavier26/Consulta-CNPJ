@@ -11,7 +11,5 @@ Consulta de CNPJ em Javascript
 
 <li>CNPJ inválido</li>
 <li>CNPJ rejeitado pela Receita Federal</li>
-<li>CEP inválido</li>
-<li>CEP não encontrado</li>
 <li>Tempo limite atingido</li>
 
