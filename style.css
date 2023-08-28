@@ -2,7 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     /* background-size: cover; */
-    /* background-color: #CCCCCC; */
+    background-color: #CCCCCC;
 }
 .row{
     margin-top: 10px;
