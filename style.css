@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    /* background-size: cover; */
+    /* background-color: #CCCCCC; */
+}
+.row{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h5{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
